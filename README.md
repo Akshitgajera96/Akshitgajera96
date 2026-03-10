@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshil Dobariya</h1>
+<h1 align="center">Hi 👋, I'm GAJERA AKSHIT </h1>
 
 <p align="center">
 🚀 Full Stack Developer | System Architect | Problem Solver <br/>
@@ -140,8 +140,8 @@ API-based weather forecasting application displaying real-time climate data with
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshil90956&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshil90956&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akshitgajera96&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akshitgajera96&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -158,7 +158,7 @@ API-based weather forecasting application displaying real-time climate data with
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/dobariya-harshil
+🔗 LinkedIn: www.linkedin.com/in/akshit-gajera-94361128a
 
 ---
 
